@@ -11,6 +11,6 @@ We also made a function that evenly splits our training and validation sets (80/
 
 ## Stage 2: Model Creation
 
-We will be using Keras pre trained Bert model classifier, which does not require tokenized input, we see that the accuracy is mediocre reaching about ______. Note that we used a sample size of 200 due to time constraints and runtime issues.
+We will be using Keras pre trained Bert model classifier, which does not require tokenized input, we see that the accuracy is mediocre reaching about 0.6691. Note that we used a sample size of 200 due to time constraints and runtime issues.
 
 We then see our scatter plot, there is not much discernibility between the classification of 0's and 1's, and therefore the mediocre accuracy is misleading us to believe the model is more effective then it is.
