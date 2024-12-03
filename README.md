@@ -4,7 +4,10 @@
 ColBERT Data: https://github.com/Moradnejad/ColBERT-Using-BERT-Sentence-Embedding-for-Humor-Detection/tree/master/Data
 Reddit Joke Data: https://github.com/taivop/joke-dataset
 
-The models are included in the models folder.
+The models are linked:
+https://drive.google.com/file/d/1BbwX8fqJNUUKpQIZfPOD0lmUuE6Tlgri/view?usp=sharing
+https://drive.google.com/file/d/1ODoGM-1u7_8HPC1rXQhiFHYcB5u08CpP/view?usp=sharing
+https://drive.google.com/file/d/1V1vI6WPFkEVYivWEimizs4yN6zRnOam9/view?usp=sharing
 
 The notebook included details of the developed model.
 
